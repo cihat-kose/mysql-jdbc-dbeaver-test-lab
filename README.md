@@ -1,4 +1,4 @@
-# TestingPractices_DB_MySQL_JDBC_DBeaver
+# MySQL JDBC DBeaver Test Lab
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-072A43?style=for-the-badge&logo=dbeaver&logoColor=white)
@@ -6,7 +6,7 @@
 ![JDBC](https://img.shields.io/badge/JDBC-3776AB?style=for-the-badge&logo=java&logoColor=white)
 
 ## 💡 Introduction
-Welcome to the **Database Testing Practices** repository! This project is designed to help you practice and enhance your skills in database testing using MySQL, JDBC, and DBeaver. The repository contains various SQL scripts and JDBC examples that cover different database concepts, from basic operations to more advanced topics.
+Welcome to the **mysql-jdbc-dbeaver-test-lab** repository! This project is designed to help you practice and enhance your skills in database testing using MySQL, JDBC, and DBeaver. The repository contains various SQL scripts and JDBC examples that cover different database concepts, from basic operations to more advanced topics.
 
 ## Table of Contents
 - [💡 Introduction](#💡-introduction)
@@ -47,7 +47,7 @@ To get started with this repository, follow these steps:
 
 1. **Clone the repository** to your local machine using the following command:
    ```bash
-   git clone https://github.com/ChatGTHB/TestingPractices_DB_MySQL_JDBC_DBeaver.git
+   git clone https://github.com/cihat-kose/mysql-jdbc-dbeaver-test-lab.git
    ```
    
 2. **Install MySQL** on your local machine. You can download MySQL from [here](https://dev.mysql.com/downloads/).
@@ -97,7 +97,7 @@ If you encounter any issues:
 For further assistance, you can open an issue in the GitHub repository.
 
 ## 👥 Contributors
-- [ChatGTHB](https://github.com/ChatGTHB)
+- [cihatkose](https://github.com/cihat-kose)
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
